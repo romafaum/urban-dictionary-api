@@ -5,7 +5,7 @@ On this moment API has 3 route:
   - To get deffinitions by name
   - Get definitions by author
   - Get random definions
-If I ever continue should add:
+###If I ever continue should add:
   - limitation to definitions, if them too many API become too slow
   - Ordering by likes or date on choise
   - And looking for specific content within definitions
